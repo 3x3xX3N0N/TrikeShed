@@ -116,3 +116,4 @@ as the universe seems to [have a shape](https://en.wikipedia.org/wiki/Hopf_fibra
    ──────────────────────────────────────────────────────────────────────────────
    MODEL B · REVERSE (preimages)         legend:  ι⁻¹ = fiber recovery   p⁻¹ = lift
    ```
+
